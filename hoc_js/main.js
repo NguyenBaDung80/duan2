@@ -1,1 +1,0 @@
-<button onclick="document.write('Hello, world')">Click me</button>
